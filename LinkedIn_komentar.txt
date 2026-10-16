@@ -1,0 +1,7 @@
+Ještě malé pokračování experimentu s English Buddym. 😊
+
+Připravila jsem jednoduché webové demo se šesti jazykovými misemi, které vycházejí z principu Fluency First a Bloomovy taxonomie. Není potřeba nic instalovat ani zadávat API klíč – stačí vybrat misi, zkopírovat instrukce a vyzkoušet je ve vlastním ChatGPT.
+
+Pokud budete mít chuť, budu moc ráda za pár minut testování a zpětnou vazbu. Jde stále o pracovní experiment a zajímá mě hlavně, jestli mise skutečně pomáhají více a spontánněji mluvit.
+
+🔗 [SEM VLOŽIT ODKAZ PO NASAZENÍ]
